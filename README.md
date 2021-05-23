@@ -8,6 +8,11 @@ USED: JAVA,
       POSTMAN,
       RETROFIT
       
+Install: 
+       google.code.gson-> gson-parent 2.8.6 
+       googlecode.json-simple-> json-simple 1.1
+       org.json-> json
+       squareup.retrofit 2-> retrofit 2.9.0 and  converter-gson 2.9.0
 
 PROJECT:
 
